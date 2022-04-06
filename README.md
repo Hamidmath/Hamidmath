@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hamidmath
 - 👀 I’m interested in Mathematics and Computer Science
 - 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on interdisciplinary area between Mathematics and Compter science
+- 💞️ I’m looking to collaborate on interdisciplinary area between Mathematics and Computer science
 - 📫 How to reach me Hamidmath2013@outloo.com
 
 <!---
